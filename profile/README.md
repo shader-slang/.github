@@ -1,6 +1,6 @@
 # The Slang Shading Language and Compiler
 
-[https://shader-slang.org](https://shader-slang.org)
+[https://shader-slang.com](https://shader-slang.com)
 
 [Discord Server](https://discord.gg/cf2bWwct)
 
@@ -21,4 +21,4 @@ Check out our [Community](https://shader-slang.com/community) page to learn more
 
 # Resources
 
-To learn more about our Slang tools, documentation, playground and much more, please visit: [https://shader-slang.org](https://shader-slang.org).
+To learn more about our Slang tools, documentation, playground and much more, please visit: [https://shader-slang.com](https://shader-slang.com).
