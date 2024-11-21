@@ -9,7 +9,7 @@ and productivity in GPU shader development. Slang supports modular development o
 across diverse target platforms.
 
 Slang is fully open-source and all developments for Slang take place within the public GitHub repo. Since November 2024 Slang has been
-under open-governance at The Khronos Group to encourage and enable broad industry collaboration to propel its continued growth and
+under open governance at The Khronos Group to encourage and enable broad industry collaboration to propel its continued growth and
 evolution.
 
 # Community & Contributing
